@@ -1,4 +1,8 @@
-igor 
 taibarey
+<<<<<<< HEAD
 prakticant
+=======
+igor
+praktikant
+>>>>>>> newstudent
 petrovskiy college
