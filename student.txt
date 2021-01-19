@@ -1,8 +1,7 @@
-taibarey
+petrov
 <<<<<<< HEAD
 prakticant
 =======
-igor
+ivan
 praktikant
 >>>>>>> newstudent
-petrovskiy college
