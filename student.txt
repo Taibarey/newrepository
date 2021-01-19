@@ -1,5 +1,4 @@
 igor 
 taibarey
-student
-4 kursa
-petrovskiy
+prakticant
+petrovskiy college
